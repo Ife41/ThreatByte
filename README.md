@@ -1,5 +1,9 @@
 # ThreatByte
 
+# Security Analysis (added by Ife41)
+
+This fork adds custom Semgrep rules identifying and detecting a weak password hashing vulnerability and a timing-unsafe password comparison found in this codebase. See semgrep-rules/
+
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/Docker-Available-blue)](https://www.docker.com/)
